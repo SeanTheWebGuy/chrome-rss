@@ -1,20 +1,11 @@
-Chrome RSS Subscription Extension
+Chrome RSS Subscription Extension for Kurasie
 =========
 
-This is a fork of the now discontinued RSS Subscription Extension for Chrome by Google
+This is a fork of an extension by [Justin Kelly](https://github.com/justinkelly) and a fork of the original RSS Subscription Extension for Chrome by Google.
 
-With the annoucement of the end of Google Reader, 
-Google removed their RSS Subscription Extension from the Chrome webstore.
+This fork removes the previous list of rss readers and replaces them
+with [Kurasie](http://kurasie.com).
 
-This fork removes the previous list of rss readers (Google Reader, iGoogle, My Yahoo) and replaces them
-with modern well supported web-based RSS readers (Feedly, NewsBlur and TheOldReader)
+This extension will be published on the chrome store at:
 
-This extension is published on the chrome webstore at:
 
-* https://chrome.google.com/webstore/detail/rss-subscription-extensio/bmjffnfcokiodbeiamclanljnaheeoke
-
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Dev/chrome-rss-hover.png)
-
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Dev/chrome-rss-options.png)
-
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Dev/chrome-rss-save.png)
