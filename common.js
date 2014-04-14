@@ -11,20 +11,8 @@ var storageEnabled = window.localStorage != null;
 function defaultReaderList() {
   // This is the default list, unless replaced by what was saved previously.
   return [
-    { 'url': 'http://www.feedly.com/home#subscription/feed/%s',
-      'description': 'Feedly'
-    },
-    { 'url': 'http://www.newsblur.com/?url=%s',
-      'description': 'NewsBlur'
-    },
-    { 'url': 'http://theoldreader.com/feeds/subscribe?url=%s',
-      'description': 'The Old Reader'
-    },
-    { 'url': 'https://www.rolio.com/subscribe.aspx?feedUrl=%s',
-      'description': 'Rolio'
-    },
-    { 'url': 'http://wefav.com/news/subs/url/%s',
-      'description': 'WeFav'
+    { 'url': 'http://beta.kurasie.com/add.php?rss_url=%s',
+      'description': 'Kurasie'
     }
   ];
 }
